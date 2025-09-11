@@ -1,0 +1,21 @@
+# Python cache dosyaları
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment klasörleri
+venv/
+.env/
+.venv/
+ENV/
+
+# Jupyter checkpoint dosyaları
+.ipynb_checkpoints/
+
+# IDE/editor dosyaları
+.vscode/
+.idea/
+
+# OS dosyaları
+.DS_Store
+Thumbs.db
